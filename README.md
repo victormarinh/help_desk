@@ -2,14 +2,14 @@
 
 Help Desk é um sistema de gerenciamento de chamadas para consertos de aparelhos danificados.
 
-## Techs Utilizadas: ##
+## Techs Utilizadas ##
 	- HTML 5
 	- CSS 3
 	- BootStrap 4
     - PHP 7(POO) + PDO
 	- MySQL(phpmyadmin)
 
-## Feito: ##
+## Feito ##
 
 - [X] Login de Usuário Comum.
 - [X] Cadastrar novos Usuários.
@@ -23,9 +23,15 @@ Help Desk é um sistema de gerenciamento de chamadas para consertos de aparelhos
 	-Primeiro:
 		- É preciso importar o arquivo Actions/help_desl.sql no seu Banco de Dados Mysql(De preferência pelo phpmyadmin);
 	-Segundo:
-		- Configurar o Acesso da aplicação com o Banco de Dados da Máquina, no arquivo Actions/Connection.php;
+		- Configurar o Acesso da aplicação com o Banco de Dados, no arquivo Actions/Connection.php;
 	-Terceiro:
-		- Ligar servidor do Xampp ou Wampp, acessar o localhost:8080 no seu navegador e pronto.
+		- Ligar servidor do Xampp ou Wampp, acessar o localhost:80 no seu navegador e pronto.
+
+## Telas ##
 
 
 ![Screenshot](./Assets/screens/login.png)
+![Screenshot](./Assets/screens/create-user.png)
+![Screenshot](./Assets/screens/home.png)
+![Screenshot](./Assets/screens/open-call.png)
+![Screenshot](./Assets/screens/calls.png)
