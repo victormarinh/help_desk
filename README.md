@@ -2,7 +2,7 @@
 
 Help Desk é um simples sistema de gerenciamento de chamadas para consertos de aparelhos danificados.
 
-Pode testar aqui: http://victormarinh.epizy.com/projects/help_desk/index.php
+<strong>Pode testar aqui:</strong> http://victormarinh.epizy.com/projects/help_desk/index.php
 
 ## Techs Utilizadas ##
 	- HTML 5
@@ -31,13 +31,13 @@ Pode testar aqui: http://victormarinh.epizy.com/projects/help_desk/index.php
 
 ## Telas ##
 
-# Login #
+### Login ###
 ![Screenshot](./Assets/screens/login.png)
-# Cadastrar novo Usuário #
+### Cadastrar novo Usuário ###
 ![Screenshot](./Assets/screens/create-user.png)
-# Home #
+### Home ###
 ![Screenshot](./Assets/screens/home.png)
-# Cadastrar nova Chamada #
+### Cadastrar nova Chamada ###
 ![Screenshot](./Assets/screens/open-call.png)
-# Ver chamadas #
+### Ver chamadas ###
 ![Screenshot](./Assets/screens/calls.png)
